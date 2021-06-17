@@ -13,4 +13,8 @@
 3. 電光掲示板（上下）
 その他に，特定のイルミネーションパターンを再生後，別のイルミネーションパターンに自動遷移するようにも設定することができる．
 
-![ポスター](http://i.imgur.com/Jjwsc.jpg )
+## 展示ポスター
+![ポスター](https://github.com/KACG-D/Project-RGB-Glasses/blob/main/image/%E3%83%9B%E3%82%9A%E3%82%B9%E3%82%BF%E3%83%BC.jpg?raw=true)
+
+## SwingアプリのGUI
+![GUI](https://github.com/KACG-D/Project-RGB-Glasses/blob/main/image/GUI.png?raw=true)
